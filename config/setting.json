@@ -1,13 +1,13 @@
 {
   "BanChats": true,
-  "AutoRead": true,
+  "AutoRead": false,
   "AutoRecording": true,
   "AutoReply": true,
   "NamaSession": "sessions",
-  "NamaOwner": "Ramdani Official",
-  "NamaBot": "Ramdani Botz",
-  "NomorOwner": "6289512545999",
-  "NomorOwner2": "6289512545999@s.whatsapp.net",
-  "NomorBot": "6288296339947",
+  "NamaOwner": "Zall",
+  "NamaBot": "ROZZxBOTZ",
+  "NomorOwner": "6281387601389",
+  "NomorOwner2": "628133154367@s.whatsapp.net",
+  "NomorBot": "6281387601389",
   "Limit": 20
 }
